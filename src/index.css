@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-nav {
+  display: flex;
+  gap: 10px;
+}
+
+.card {
+  border: none;
+}
+
+h2 {
+  font-weight: 600;
+}
